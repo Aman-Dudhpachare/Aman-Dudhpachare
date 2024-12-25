@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on  Acceleration of quantum computing using FPGA integration and Qiskit programming.<br>🤝 I’m looking for help with Integrating FPGA<br>🌱 I’m currently learning IBM Qiskit for quantum programming.<br>💬 Ask me about Electronics, IoT, Vlsi Design<br>
+
+Hi there! I'm Aman Dudhpachare, a passionate Industrial IoT Engineer with a keen interest in IoT,Embedded Systems, VLSI Design Technology and Quantum Computing.<br>
+
+🚀 Currently exploring the intersection of Quantum Algorithms and FPGA hardware.<br>
+💡 Working on projects that blend IoT, automation, and smart systems using ESP32, STM32, and other microcontrollers.<br>
+🖋️ Writing a research paper: "Quantum Logic in Action: Designing Algorithms for Real-World Applications" to simulate classical gates with quantum logic.<br>
+🌱 Constantly learning about Cloud Computing, Machine Learning, and Hardware-Software Co-design.<br>
 
 
 ## 🌐 Socials:
